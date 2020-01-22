@@ -1,4 +1,4 @@
-# My Syllabus Heading
+# Introduction to Linguistics
 ## **Readings**
 ### *Week 1*
 
